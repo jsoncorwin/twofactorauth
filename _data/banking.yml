@@ -533,7 +533,8 @@ websites:
       twitter: lendingclub
       facebook: LendingClubTeam
       img: lendingclub.png
-      tfa: No
+      tfa: Yes
+      email: Yes
 
     - name: Lloyds Bank
       url: https://www.lloydsbank.com/
